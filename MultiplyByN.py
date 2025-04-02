@@ -21,7 +21,7 @@ def main():
     result_1 = multiply_using_iteration(N, M)
     print(f"Result using iteration-based multiplication: {result_1}")
     
-    # Using N iterations (repeated addition)
+    # Using N iterations 
     result_2 = multiply_using_N_iterations(N, M)
     print(f"Result using N iterations (repeated addition): {result_2}")
 
